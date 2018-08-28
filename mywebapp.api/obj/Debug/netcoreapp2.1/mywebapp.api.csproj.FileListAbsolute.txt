@@ -1,0 +1,14 @@
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.csprojAssemblyReference.cache
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.csproj.CoreCompileInputs.cache
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.RazorAssemblyInfo.cache
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.RazorAssemblyInfo.cs
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.AssemblyInfoInputs.cache
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.AssemblyInfo.cs
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/bin/Debug/netcoreapp2.1/mywebapp.api.deps.json
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/bin/Debug/netcoreapp2.1/mywebapp.api.runtimeconfig.json
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/bin/Debug/netcoreapp2.1/mywebapp.api.runtimeconfig.dev.json
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/bin/Debug/netcoreapp2.1/mywebapp.api.dll
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/bin/Debug/netcoreapp2.1/mywebapp.api.pdb
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.RazorTargetAssemblyInfo.cache
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.dll
+/Users/mdvincent/Documents/Development/ASP.NET-Core2.1-WebAPI-and-Vue.JS-SPA-Basic-CRUD/mywebapp.api/obj/Debug/netcoreapp2.1/mywebapp.api.pdb
